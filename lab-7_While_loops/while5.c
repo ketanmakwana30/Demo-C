@@ -7,6 +7,7 @@ int main() {
 
     printf("Enter the starting year: ");
     scanf("%d", &start);
+
     printf("Enter the ending year: ");
     scanf("%d", &end);
 
